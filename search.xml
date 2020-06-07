@@ -19,4 +19,16 @@
 <a id="more"></a>
 ]]></content>
   </entry>
+  <entry>
+    <title>测试文章</title>
+    <url>/2020/06/07/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+    <content><![CDATA[<p>测试文章</p>
+<h1 id="标题一"><a href="#标题一" class="headerlink" title="标题一"></a>标题一</h1><p>内容测试一</p>
+<a id="more"></a>
+
+<h1 id="标题二"><a href="#标题二" class="headerlink" title="标题二"></a>标题二</h1><p>内容测试二</p>
+<h2 id="标题二子标题"><a href="#标题二子标题" class="headerlink" title="标题二子标题"></a>标题二子标题</h2><p>内容测试三</p>
+<h3 id="增加内容"><a href="#增加内容" class="headerlink" title="增加内容"></a>增加内容</h3><p>测试增加内容<br>内容重复一<br>内容重复二</p>
+<!--more-->]]></content>
+  </entry>
 </search>
